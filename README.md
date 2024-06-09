@@ -1,1 +1,1 @@
-# event-managment
+# eventmanagment
